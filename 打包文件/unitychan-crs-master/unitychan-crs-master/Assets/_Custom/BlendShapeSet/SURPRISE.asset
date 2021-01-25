@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 930a5c82967280d45afe8a240be1f9cd, type: 3}
+  m_Name: SURPRISE
+  m_EditorClassIdentifier: 
+  SetName: SURPRISE
+  Values:
+  - Key: blendShape2.EYE_SMILE2
+    Value: 100
+  - Key: blendShape2.EYE_SMILE1
+    Value: 0
+  - Key: blendShape1.MTH_SMILE1
+    Value: 19
+  - Key: blendShape1.MTH_SMILE2
+    Value: 48
+  - Key: blendShape1.MTH_SAP
+    Value: 75
+  - Key: blendShape2.EYE_SAP
+    Value: 0
+  - Key: blendShape2.EYE_CONF
+    Value: 0
+  - Key: blendShape2.EYE_ANG1
+    Value: 0
+  - Key: blendShape2.EYE_ANG2
+    Value: 0
+  - Key: blendShape2.EYE_DEF_C
+    Value: 0
+  - Key: blendShape1.MTH_CONF
+    Value: 0
+  - Key: blendShape1.MTH_ANG1
+    Value: 0
+  - Key: blendShape1.MTH_ANG2
+    Value: 0
+  - Key: blendShape2.EYE_SAP
+    Value: 40
+  - Key: blendShape2.EYE_DEF_C
+    Value: 8
+  - Key: blendShape2.EYE_ANG2
+    Value: 0
+  - Key: blendShape2.EYE_ANG1
+    Value: 0
+  - Key: blendShape2.EYE_SMILE1
+    Value: 0
+  - Key: blendShape2.EYE_SMILE2
+    Value: 0
+  - Key: blendShape2.EYE_CONF
+    Value: 0
+  - Key: blendShape3.BLW_SAP
+    Value: 50
+  - Key: blendShape3.BLW_CONF
+    Value: 0
+  - Key: blendShape3.BLW_SMILE1
+    Value: 50
+  - Key: blendShape3.BLW_SMILE2
+    Value: 50
+  - Key: blendShape3.BLW_ANG1
+    Value: 0
+  - Key: blendShape3.BLW_ANG2
+    Value: 0
+  - Key: blendShape1.MTH_A
+    Value: 0
+  - Key: blendShape1.MTH_I
+    Value: 0
+  - Key: blendShape1.MTH_U
+    Value: 0
+  - Key: blendShape1.MTH_E
+    Value: 0
+  - Key: blendShape1.MTH_O
+    Value: 0

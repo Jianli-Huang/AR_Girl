@@ -1,0 +1,6 @@
+framework module WikitudeNativeSDK {
+  umbrella header "WikitudeNativeSDK.h"
+
+  export *
+  module * { export * }
+}

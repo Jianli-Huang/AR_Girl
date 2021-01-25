@@ -1,0 +1,3 @@
+[submodule "Assets/UnityTimelineTracks"]
+	path = Assets/UnityTimelineTracks
+	url = https://github.com/ousttrue/UnityTimelineTracks.git
